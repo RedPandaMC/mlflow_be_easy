@@ -1,5 +1,4 @@
 """Adds Synthetic Data To Sklearns Iris DataSet"""
-from sklearn.datasets import load_iris
 from pandas import DataFrame, concat
 from prefect import flow, task
 from imblearn.over_sampling import SMOTE

@@ -12,3 +12,4 @@ pytest
 black
 isort
 imbalanced-learn
+fastparquet
