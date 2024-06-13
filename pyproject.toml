@@ -1,0 +1,9 @@
+[tool.pylint.messages_control]
+disable = [
+    "missing-function-docstring",
+    "missing-class-docstring",
+    "broad-exception-caught",
+    "invalid-name",
+    "consider-using-enumerate",
+    "no-member"
+]

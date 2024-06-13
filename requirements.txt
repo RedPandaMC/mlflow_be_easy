@@ -13,3 +13,4 @@ black
 isort
 imbalanced-learn
 fastparquet
+sqlalchemy
