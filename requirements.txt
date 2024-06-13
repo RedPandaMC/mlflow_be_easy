@@ -11,3 +11,4 @@ prefect
 pytest
 black
 isort
+imbalanced-learn
